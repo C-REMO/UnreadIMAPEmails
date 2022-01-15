@@ -11,7 +11,7 @@ exec = python .config/polybar/scripts/UnreadEmails/unreademails.py
 interval = 5
 ```
 
-When there are unread images, number is shown as red
+When there are unread emails, number is shown as red
 ![This is an image](/images/2022-01-15_23-27.png)
 
 Otherwise it is green
