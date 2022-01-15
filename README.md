@@ -35,3 +35,5 @@ webmails = [
     }
 ]
 ```
+
+NOTE: For GMAIL you need to enable access by third party apps (less secure apps in google options)
