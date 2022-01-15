@@ -1,5 +1,5 @@
 # Show Unread IMAP Emails
-Polybar client for checking email status, you can add as much as webmails as you want.
+Polybar client for checking email status, you can add as much webmails as you want.
 
 Polybar .dot file changes:
 ```
@@ -17,7 +17,7 @@ When there are unread images, number is shown as red
 Otherwise it is green
 ![This is an image](/images/2022-01-15_23-29.png)
 
-Label can be text or icon (fontawesome used by me for gmail):
+Label can be shown as text or icon (fontawesome used by me for gmail):
 ```
 webmails = [
     {
