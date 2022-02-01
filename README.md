@@ -17,6 +17,10 @@ When there are unread emails, number is shown as red
 Otherwise it is green
 ![This is an image](/images/2022-01-15_23-29.png)
 
+Another example:
+![This is an image](/images/2022-02-01_16-23.png)
+![This is an image](/images/2022-02-01_16-23.png)
+
 Label can be shown as text or icon (fontawesome used by me for gmail):
 ```
 webmails = [
